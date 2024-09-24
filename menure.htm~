@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<body> 
+ <div> class="geral">
+<div class="header">HEADER</div>
+<div class="aside fleft">ESQUERDA</div>
+<div class="aside fright">DIREITA</div>
+<div class="content">
+<p>Todos os Direitos Reservados a ELETRICA AZIMUTEC fone (011)98193-8282 fax(011)2283-1422
+</p>
+<div class="footer"> RODAPE </div>
+<div align="center" class="footer" name="RODAPE"></div>
+</body>
+</html>
+*  {
+margin:0;
+padding:0;}
+html, body {height:100%;}
+.footer {
+   position:absolute;
+   botton:0;
+   width:100%;}
+   .content {overflow:hidden;}
+   .aside {width:200px;}
+   .fleft {float:left;}
+   .fright {float:right;}
+
+
+<p>/home/azimutec/public_html/torrecumpre.jpg</p>
+</body>
+<footer>Todos os Direitos Reservados AZIMUTEC fone:(011)97332-4177 fax(011)98193-8282</footer>
